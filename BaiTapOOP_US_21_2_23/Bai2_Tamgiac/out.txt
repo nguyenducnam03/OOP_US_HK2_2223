@@ -1,0 +1,7 @@
+Xuat tao do dinh1: 
+X: 26 ; Y: 25.75
+Xuat tao do dinh2: 
+X: 3 ; Y: 2
+Xuat tao do dinh3: 
+X: -4 ; Y: 6
+Tam giac nay la hop le
